@@ -17,6 +17,8 @@ SQL Server
 #### Construcción base
 
 ```
+dotnet new sln -n EventsVIP 
+
 # Proyecto API (Web API)
 dotnet new webapi -n EventsVIP.API -controllers
 
