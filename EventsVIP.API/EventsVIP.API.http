@@ -1,0 +1,6 @@
+@EventsVIP.API_HostAddress = http://localhost:5152
+
+GET {{EventsVIP.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
