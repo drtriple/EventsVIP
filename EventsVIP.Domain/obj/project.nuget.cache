@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "NSQYvWRvGhg=",
+  "success": true,
+  "projectFilePath": "D:\\Datos\\Desktop\\ITM\\SEPTIMO SEMESTRE\\Apis\\EventsVIP\\EventsVIP.Domain\\EventsVIP.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chava\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.7\\microsoft.extensions.dependencyinjection.abstractions.10.0.7.nupkg.sha512",
+    "C:\\Users\\chava\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.7\\microsoft.extensions.logging.abstractions.10.0.7.nupkg.sha512",
+    "C:\\Users\\chava\\.nuget\\packages\\system.diagnostics.diagnosticsource\\10.0.7\\system.diagnostics.diagnosticsource.10.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
